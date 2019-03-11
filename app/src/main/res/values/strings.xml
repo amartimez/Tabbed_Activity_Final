@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tabbed Activity</string>
+    <string name="tab_text_1">Name_movie</string>
+    <string name="tab_text_2">Name&amp;year</string>
+    <string name="tab_text_3">Serie&amp;episode</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
